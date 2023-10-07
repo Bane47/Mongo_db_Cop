@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "651d97daf7c8d22698b2f551"
+  },
+  "crimeType": "Cyber crime",
+  "complaintDescription": "My photo was Morphed",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Podanur",
+  "stationCode": "O15",
+  "incidentDescription": "They whatsapped me",
+  "evidenceFile": "C:\\fakepath\\41598037.jpg",
+  "contact": "8300287044",
+  "userEmail": "priyadarshanmanoharan@gmail.com",
+  "userName": "Priyadarshan M",
+  "reportedAt": "2023-10-03T07:00:00.000Z",
+  "status": "Under Investigation",
+  "complaintCode": "PodanurO156878",
+  "witnessName": "Darshan",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "Darshan",
+  "reportedTime": "16:55",
+  "inspector": "Rajendra Prasad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651db08fa479e516c53adaee"
+  },
+  "crimeType": "Violence",
+  "complaintDescription": "A violent riot complaint regarding.",
+  "incidentDate": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "incidentLocation": "Kavundampalayam",
+  "stationCode": "A1",
+  "incidentDescription": "A mass people protested violently at kavundampalayam.",
+  "evidenceFile": "C:\\fakepath\\Star.png",
+  "contact": "8300287044",
+  "userEmail": "priyadarshanmanoharan@gmail.com",
+  "userName": "Priyadarshan M",
+  "reportedAt": "2023-10-04T07:00:00.000Z",
+  "status": "Under Investigation",
+  "complaintCode": "KavundampalayamA17947",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "9:47",
+  "inspector": "Sharon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f01bfb2dc1804350bf65b"
+  },
+  "crimeType": "Violence",
+  "complaintDescription": "A violent riot at gandhipuram.",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Gandhipuram",
+  "stationCode": "C3",
+  "incidentDescription": "People started to riot violently.",
+  "evidenceFile": "C:/Users/cgvak/Desktop/CrimeReport/client/src/components/assets/riot3.jpg",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "2023-10-05T07:00:00.000Z",
+  "status": "Under Investigation",
+  "complaintCode": "GandhipuramC35125",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "10:30",
+  "inspector": "Deepika Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f399150c46c384ea9244c"
+  },
+  "crimeType": "Robbery",
+  "complaintDescription": "A robbery took place at Kavundampalayam",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Kavundampalayam",
+  "stationCode": "A1",
+  "incidentDescription": "Four masked men came and robbed a bank",
+  "evidenceFile": "C:\\fakepath\\GandhiDesktop.jpg",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "2023-10-05T07:00:00.000Z",
+  "status": "First Information Report filed",
+  "complaintCode": "KavundampalayamA17121",
+  "witnessName": "Hemanth",
+  "witnessContact": "8745201369",
+  "witnessAddress": "Coimbatore",
+  "witnessStatement": "He got beaten by one of the masked man.",
+  "additionalDetails": "Robbery is recorded in bank cctv camera",
+  "reportedTime": "13:45",
+  "inspector": "Sharon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f456e3e4e0b9fac665975"
+  },
+  "crimeType": "Theft",
+  "complaintDescription": "A theft at Saibaba Colony.",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Saibaba Colony",
+  "stationCode": "G7",
+  "incidentDescription": "A Well is stolen from Saibaba Colony.",
+  "evidenceFile": "C:\\fakepath\\riot2.jfif",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "5-10-2023",
+  "status": "First Information Report filed",
+  "complaintCode": "Saibaba ColonyG73406",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "15:55",
+  "inspector": "Vijay Sharma",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f5905ba30ba89d40c0509"
+  },
+  "crimeType": "Violence",
+  "complaintDescription": "A violence at gandhipuram",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Gandhipuram",
+  "stationCode": "C3",
+  "incidentDescription": "Violent riot",
+  "evidenceFile": "C:\\fakepath\\riot.jfif",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "5-10-2023",
+  "status": "First Information Report filed",
+  "complaintCode": "GandhipuramC36339",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "17:42",
+  "inspector": "Deepika Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6520c3de2a2a76bb1dff36e4"
+  },
+  "crimeType": "Money Laundering",
+  "complaintDescription": "Black money found at tidel park",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Tidel Park",
+  "stationCode": "I9",
+  "incidentDescription": "1000000 Rupees of money found.",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "5-10-2023",
+  "status": "First Information Report filed",
+  "complaintCode": "Tidel ParkI92831",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "18:18",
+  "inspector": "Priya",
+  "firCode": "Mo20TiI9Tid885",
+  "__v": 0
+}]

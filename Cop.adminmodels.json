@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "651df2e14f005c844eb853d0"
+  },
+  "name": "Priyadarshan M",
+  "password": "$2b$13$bmo4eCLUnefd838Kn/HZAOP.cE8fuB/rJi.K/wYtyRcdEbbpbLqzO",
+  "email": "priyadarshanmanoharan@gmail.com",
+  "category": "Admin",
+  "contact": "8300287044",
+  "__v": 0
+}]

@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "651de3ca0ab0096f32361bff"
+  },
+  "roll": "PeelE123",
+  "name": "Santhosh",
+  "email": "santhosh@gmail.com",
+  "contact": "1098765432",
+  "age": 33,
+  "gender": "Male",
+  "stationDetails": "J10",
+  "applicationDate": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "area": "Peelamedu",
+  "__v": 0,
+  "category": "Inspector"
+}]

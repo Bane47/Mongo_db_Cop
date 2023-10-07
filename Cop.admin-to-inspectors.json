@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "651f596eba30ba89d40c0520"
+  },
+  "crimeType": "Violence",
+  "complaintDescription": "A violence at gandhipuram",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Gandhipuram",
+  "stationCode": "C3",
+  "incidentDescription": "Violent riot",
+  "evidenceFile": "C:\\fakepath\\riot.jfif",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "5-10-2023",
+  "status": "Under Investigation",
+  "complaintCode": "GandhipuramC36339",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "17:42",
+  "inspector": "Deepika Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652033bb67755514746862ae"
+  },
+  "crimeType": "Cyber crime",
+  "complaintDescription": "A cyber crime...",
+  "incidentDate": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "incidentLocation": "RS Puram",
+  "stationCode": "E5",
+  "incidentDescription": "Something",
+  "evidenceFile": "C:\\fakepath\\riot.jfif",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "6-10-2023",
+  "status": "Under Investigation",
+  "complaintCode": "RS PuramE597",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "9:18",
+  "inspector": "Suresh Patel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6520344867755514746862c2"
+  },
+  "crimeType": "Robbery",
+  "complaintDescription": "A robbery at gandhipuram",
+  "incidentDate": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "incidentLocation": "Gandhipuram",
+  "stationCode": "C3",
+  "incidentDescription": "...",
+  "evidenceFile": "C:\\fakepath\\riot.jfif",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "6-10-2023",
+  "status": "Under Investigation",
+  "complaintCode": "GandhipuramC35356",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "9:21",
+  "inspector": "Deepika Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6520b6b2bb991b0510a00832"
+  },
+  "crimeType": "Cyber crime",
+  "complaintDescription": "A cyber crime...",
+  "incidentDate": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "incidentLocation": "RS Puram",
+  "stationCode": "E5",
+  "incidentDescription": "Something",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "6-10-2023",
+  "status": "Under Investigation",
+  "complaintCode": "RS PuramE597",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "9:18",
+  "inspector": "Suresh Patel",
+  "__v": 0
+}]

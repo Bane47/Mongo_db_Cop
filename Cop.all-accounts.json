@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "651e24f257a6082de3415d1f"
+  },
+  "name": "Priyadarshan M",
+  "email": "priyadarshanmanoharan@gmail.com",
+  "contact": "8300287044",
+  "password": "$2b$13$HFXUBH.ckpdk0vss8lhRKuKq84nlVCCdhZK33Myy0raa7Rf4Tihpe",
+  "category": "Admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e252973d2f5d23481c9e8"
+  },
+  "name": "Siva Bharath",
+  "email": "sivabharathece@gmail.com",
+  "contact": "9874562130",
+  "password": "$2b$13$LuBpqJQz3bySjd6l66gPQ.cINHrl/qPxtSbZJ5ydsHyJl.qe8TZx6",
+  "category": "civilian",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e255573d2f5d23481c9ea"
+  },
+  "name": "Sathya Moorthy",
+  "email": "sathyamoorthyips@gmail.com",
+  "contact": "8795462130",
+  "password": "$2b$13$CH.Dw92PwJ.AkpVr562ZduuJ9M8f9/tCeFrZw0UkGrK4M1NZCPrP6",
+  "category": "Inspector",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e258173d2f5d23481c9ec"
+  },
+  "name": "Rathinavel Pandian",
+  "email": "rathinavelpandian@gmail.com",
+  "contact": "8745120369",
+  "password": "$2b$13$hZOUDfY6OloQ8/P9ob0TfebzRg1XWsBt0XZviCpVNhc3.CytRlQyu",
+  "category": "Sub-Inspector",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f296d901299637228225c"
+  },
+  "name": "Priya",
+  "email": "priya@gmail.com",
+  "contact": "9109876543",
+  "password": "Priya@123",
+  "category": "Inspector",
+  "__v": 0
+}]

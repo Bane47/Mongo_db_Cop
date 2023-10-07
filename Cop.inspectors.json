@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "651e1cfd16aed4826cbc0e45"
+  },
+  "id": "SirS123",
+  "name": "Kaviya",
+  "email": "kaviya@gmail.com",
+  "contact": "4321098765",
+  "age": 30,
+  "gender": "Female",
+  "stationDetails": "G7",
+  "applicationDate": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "area": "Sirkali",
+  "category": "Inspector",
+  "password": "$2b$13$3Ls8YZC/6so94f34ApUZ.emKlQmLlDnuQmqmOsWSvyEAssztZFdya",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e1e670e5d2fec1f06f5ff"
+  },
+  "id": "VadS123",
+  "name": "Subashini",
+  "email": "subashini@gmail.com",
+  "contact": "7654321098",
+  "age": 30,
+  "gender": "Female",
+  "stationDetails": "D4",
+  "applicationDate": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "area": "Vadipatti",
+  "category": "Sub-Inspector",
+  "password": "Subashini@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e1ea6a115455f8d889be1"
+  },
+  "id": "ThilN789",
+  "name": "Tharuna",
+  "email": "sivabharasthece@gmail.com",
+  "contact": "5432109876",
+  "age": 27,
+  "gender": "Female",
+  "stationDetails": "F6",
+  "applicationDate": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "area": "Thillai Nagar",
+  "category": "Sub-Inspector",
+  "password": "$2b$13$z14gyJ/mB89DQ/uc9o4yEe3Bv5knpYoKtR7Ox8VobJte148fEcQwq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651e1f03cf6f47595fec97d4"
+  },
+  "id": "KallW456",
+  "name": "Sundar",
+  "email": "sivabharathece@gmail.com",
+  "contact": "3210987654",
+  "age": 31,
+  "gender": "Male",
+  "stationDetails": "H8",
+  "applicationDate": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "area": "Kallakurichi",
+  "category": "Sub-Inspector",
+  "password": "Sundar@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651f296c9012996372282256"
+  },
+  "id": "SingS789",
+  "name": "Priya",
+  "email": "priya@gmail.com",
+  "contact": "2109876543",
+  "age": 26,
+  "gender": "Female",
+  "stationDetails": "I9",
+  "applicationDate": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  },
+  "area": "RS Puram",
+  "category": "Inspector",
+  "password": "Priya@123",
+  "__v": 0
+}]

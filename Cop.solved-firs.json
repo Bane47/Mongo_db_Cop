@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "651b2de5506290e355a07bd0"
+  },
+  "type": "Others",
+  "dateTime": {
+    "$date": "2023-09-01T07:07:00.000Z"
+  },
+  "location": "Thudialur",
+  "stationCode": "C2",
+  "description": "zxcxzcxzfh",
+  "contact": "8300287044",
+  "userEmail": "priyadarshanmanoharan@gmail.com",
+  "userName": "priyadarshanmanoharan@gmail.com",
+  "reportedAt": "2023-09-30T18:07:57.587Z",
+  "status": "Solved",
+  "complaintCode": "ThudialurC220467",
+  "officer": "Sathya Moorthy IPS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ca939f8cd22328dae1007"
+  },
+  "crimeType": "Theft",
+  "complaintDescription": "A theft at Thudiyalur",
+  "incidentDate": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "incidentLocation": "Thudiyalur",
+  "stationCode": "A1",
+  "incidentDescription": "Three masked guys came by car and stole food from a shop.",
+  "evidenceFile": "C:\\fakepath\\No-contact-image-removebg-preview.png",
+  "contact": "8300287044",
+  "userEmail": "priyadarshanmanoharan@gmail.com",
+  "userName": "Priyadarshan M",
+  "reportedAt": "2023-10-03T07:00:00.000Z",
+  "status": "Solved",
+  "complaintCode": "ThudiyalurA14464",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "Bike No: TN 09 F 9087",
+  "reportedTime": "16:20",
+  "inspector": "Rathinavel Pandiyan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6520bddc2a2a76bb1dff3696"
+  },
+  "crimeType": "Money Laundering",
+  "complaintDescription": "Black money found at tidel park",
+  "incidentDate": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "incidentLocation": "Tidel Park",
+  "stationCode": "I9",
+  "incidentDescription": "1000000 Rupees of money found.",
+  "evidenceFile": "C:\\fakepath\\Carousel2.jpg",
+  "contact": "9874562130",
+  "userEmail": "sivabharathece@gmail.com",
+  "userName": "Siva Bharath",
+  "reportedAt": "5-10-2023",
+  "status": "Solved",
+  "complaintCode": "Tidel ParkI92831",
+  "witnessName": "",
+  "witnessContact": "",
+  "witnessAddress": "",
+  "witnessStatement": "",
+  "additionalDetails": "None",
+  "reportedTime": "18:18",
+  "inspector": "Priya",
+  "__v": 0
+}]

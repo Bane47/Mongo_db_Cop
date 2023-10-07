@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "651c64e45d0fc042a5d5545e"
+  },
+  "area": "Kavundampalayam",
+  "inspector": "Sharon",
+  "stationCode": "A1"
+},
+{
+  "_id": {
+    "$oid": "651c68ffb2bc67dcb084078e"
+  },
+  "area": "Thudiyalur",
+  "stationCode": "A1",
+  "inspector": "Rathinavel Pandiyan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c6979b2bc67dcb0840791"
+  },
+  "area": "Peelamedu",
+  "stationCode": "B2",
+  "inspector": "Rajesh Kumar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69a0b2bc67dcb0840793"
+  },
+  "area": "Gandhipuram",
+  "stationCode": "C3",
+  "inspector": "Deepika Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69a7b2bc67dcb0840795"
+  },
+  "area": "Singanallur",
+  "stationCode": "D4",
+  "inspector": "Arun Singh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69afb2bc67dcb0840797"
+  },
+  "area": "RS Puram",
+  "stationCode": "E5",
+  "inspector": "Suresh Patel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69b4b2bc67dcb0840799"
+  },
+  "area": "Town Hall",
+  "stationCode": "F6",
+  "inspector": "Neha Gupta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69bab2bc67dcb084079b"
+  },
+  "area": "Saibaba Colony",
+  "stationCode": "G7",
+  "inspector": "Vijay Sharma",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69bfb2bc67dcb084079d"
+  },
+  "area": "Ramanathapuram",
+  "stationCode": "H8",
+  "inspector": "Sundar",
+  "__v": 0,
+  "email": "sivabharathece@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "651c69c5b2bc67dcb084079f"
+  },
+  "area": "Tidel Park",
+  "stationCode": "I9",
+  "inspector": "Priya",
+  "__v": 0,
+  "email": "priya@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "651c69c9b2bc67dcb08407a1"
+  },
+  "area": "Race Course",
+  "stationCode": "J10",
+  "inspector": "Asha Singh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69ceb2bc67dcb08407a3"
+  },
+  "area": "Saravanampatti",
+  "stationCode": "K11",
+  "inspector": "Rahul Reddy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69d2b2bc67dcb08407a5"
+  },
+  "area": "Ganapathy",
+  "stationCode": "L12",
+  "inspector": "Meena Joshi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69d7b2bc67dcb08407a7"
+  },
+  "area": "Kavundampalayam",
+  "stationCode": "M13",
+  "inspector": "Vikram Rajan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69dcb2bc67dcb08407a9"
+  },
+  "area": "Perur",
+  "stationCode": "N14",
+  "inspector": "Sangeeta Kumar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69e2b2bc67dcb08407ab"
+  },
+  "area": "Podanur",
+  "stationCode": "O15",
+  "inspector": "Rajendra Prasad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69e7b2bc67dcb08407ad"
+  },
+  "area": "Pappampatti",
+  "stationCode": "P16",
+  "inspector": "Preeti Nair",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69ebb2bc67dcb08407af"
+  },
+  "area": "Sulur",
+  "stationCode": "Q17",
+  "inspector": "Karthik Menon",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69f0b2bc67dcb08407b1"
+  },
+  "area": "Vadavalli",
+  "stationCode": "R18",
+  "inspector": "Shweta Iyer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69f8b2bc67dcb08407b3"
+  },
+  "area": "Goundampalayam",
+  "stationCode": "S19",
+  "inspector": "Ajay Kumar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c69ffb2bc67dcb08407b5"
+  },
+  "area": "Rathinapuri",
+  "stationCode": "T20",
+  "inspector": "Priya Sharma",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c6a04b2bc67dcb08407b7"
+  },
+  "area": "Kalapatti",
+  "stationCode": "U21",
+  "inspector": "Vishal Gupta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c6a0bb2bc67dcb08407b9"
+  },
+  "area": "Kalapatti",
+  "stationCode": "U21",
+  "inspector": "Vishal Gupta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c6a11b2bc67dcb08407bb"
+  },
+  "area": "Thudiyalur",
+  "stationCode": "V22",
+  "inspector": "Saranya Raman",
+  "__v": 0
+}]

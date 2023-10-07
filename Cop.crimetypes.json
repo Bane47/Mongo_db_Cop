@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "651c75059c8ee5bbdedf0dc7"
+  },
+  "crimeType": "Cyber crime",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75109c8ee5bbdedf0dc9"
+  },
+  "crimeType": "Organized crime",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75189c8ee5bbdedf0dcb"
+  },
+  "crimeType": "Violence",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c751d9c8ee5bbdedf0dcd"
+  },
+  "crimeType": "Robbery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75249c8ee5bbdedf0dcf"
+  },
+  "crimeType": "Money Laundering",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c752a9c8ee5bbdedf0dd1"
+  },
+  "crimeType": "Assault",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75319c8ee5bbdedf0dd3"
+  },
+  "crimeType": "Theft",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75379c8ee5bbdedf0dd5"
+  },
+  "crimeType": "Kidnap",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75409c8ee5bbdedf0dd7"
+  },
+  "crimeType": "Murder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651c75489c8ee5bbdedf0dd9"
+  },
+  "crimeType": "Arson",
+  "__v": 0
+}]
